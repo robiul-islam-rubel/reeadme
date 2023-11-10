@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I am name is Robiul Islam 
+ 👋, Hi, I am name is Robiul Islam 
 I am working as a Lecturer at Uttara University. I have huge interest on Machine Learning , Natural Language Processing and Image Processing.
 
 
