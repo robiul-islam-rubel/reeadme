@@ -30,11 +30,10 @@ Skills: Machine Learning | Natural Language Processing | Image Processing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=robiul-islam-rubel&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=robiul-islam-rubel)  
-
-![GitHub metrics](https://metrics.lecoq.io/robiul-islam-rubel)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=robiul-islam-rubel)  
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=robiul-islam-rubel&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=robiul-islam-rubel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robiul-islam-rubel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=robiul-islam-rubel&limit=5&theme=radical&combine_all_yearly_contributions=true)
