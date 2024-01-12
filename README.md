@@ -36,4 +36,5 @@ Skills: Machine Learning | Natural Language Processing | Image Processing
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=robiul-islam-rubel)  
 
-![Profile views](https://gpvc.arturio.dev/robiul-islam-rubel)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=robiul-islam-rubel&limit=5&theme=radical&combine_all_yearly_contributions=true)
