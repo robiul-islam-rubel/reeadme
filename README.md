@@ -14,7 +14,7 @@ Skills: Machine Learning | Natural Language Processing | Image Processing
 - 🌱 I’m currently learning Image Processing  
 - 👯 I’m looking to collaborate on Machine Learning | Natural Language Processing | Image Processing 
 - 💬 Ask me about Machine Learning | Natural Language Processing | Image Processing 
-- 📫 How to reach me: robiul.islam@uttarauniversity.edu.bd 
+- 📫 How to reach me: robiul.cse.uu@gmail.com
 - 😄 Pronouns: Ro bi ul is la am 
 - ⚡ Fun fact: Do you know about Turing test? The Turing test, originally called the imitation game by Alan Turing in 1950 is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human. Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses 
 <h3 align="left">Languages and Tools:</h3>
